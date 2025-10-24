@@ -1,0 +1,7 @@
+mode: set
+gotest/calculator.go:7.40,9.2 1 0
+gotest/calculator.go:11.45,13.2 1 1
+gotest/calculator.go:15.45,17.2 1 1
+gotest/calculator.go:19.60,20.12 1 1
+gotest/calculator.go:20.12,22.3 1 1
+gotest/calculator.go:23.2,23.19 1 1
